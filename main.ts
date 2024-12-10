@@ -3,10 +3,10 @@ SerialPin.P2,
 SerialPin.P1,
 "EVI-LINKSYS",
 "88888888",
-"yourIotId",
-"yourIotPwd",
-"yourIotTopic",
-Obloq.SERVERS.China
+"magnotechco@gmail.com",
+"c!oudbeebottetech137",
+"shameplant",
+Obloq.SERVERS.Global
 )
 basic.forever(function () {
 	
