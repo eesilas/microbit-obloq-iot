@@ -1,0 +1,25 @@
+{
+    "name": "Microbit OBLOQ IoT",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Obloq": "github:DFRobot/pxt-Obloq1#cd780c83a26a2020a3751270d600cbd1b57d33d5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.51",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ]
+}
