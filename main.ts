@@ -1,8 +1,8 @@
 Obloq.Obloq_mqtt_setup(
 SerialPin.P2,
 SerialPin.P1,
-"yourSSID",
-"yourPASSWORD",
+"EVI-LINKSYS",
+"88888888",
 "yourIotId",
 "yourIotPwd",
 "yourIotTopic",
